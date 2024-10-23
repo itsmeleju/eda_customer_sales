@@ -17,21 +17,21 @@ Visualize the dataset with various plot types.
 
 The data includes various attributes related to customer purchases, such as:
 
-Customer ID: Unique identifier for each customer.
-Gender:  The gender of the customer.
-Birthdate:  The birthdate of the customer.
-Payment:   The payment methods used by the customer.
-Merchant Name:  The name of the merchant where the customer made a purchase.
-Category:  The category of the product purchased.
-Branches(A,B,C): The Branches where customer make purchase.
-Unit price:   The price of the product purchased.
-Quantity: The amount of the product purchased.
-shipping_charges: The fee for shipping the product.
-Tax: The amount of tax paid on the purchase.
-Transaction Amount:  The total amount paid by the customer for the purchase.
-Rating:  The rating given by the customer for the product.
-Date: Date of the purchase
-Time: Time of the purchase
+1) Customer ID: Unique identifier for each customer.
+2) Gender:  The gender of the customer.
+3) Birthdate:  The birthdate of the customer.
+4) Payment:   The payment methods used by the customer.
+5) Merchant Name:  The name of the merchant where the customer made a purchase.
+6) Category:  The category of the product purchased.
+7) Branches(A,B,C): The Branches where customer make purchase.
+8) Unit price:   The price of the product purchased.
+9) Quantity: The amount of the product purchased.
+10) Shipping_charges: The fee for shipping the product.
+11) Tax: The amount of tax paid on the purchase.
+12) Transaction Amount:  The total amount paid by the customer for the purchase.
+13) Rating:  The rating given by the customer for the product.
+14) Date: Date of the purchase
+15) Time: Time of the purchase
 
 **In this project, we will try to give answers to a set of questions that may be relevant when analyzing banking data:**
 
