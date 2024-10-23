@@ -1,19 +1,19 @@
-**Exploratory Data Analysis (EDA) using Python in Customer Sales dataset**
-Customer Sales EDA Project
+***Exploratory Data Analysis (EDA) using Python in Customer Sales dataset****
 
-**Project Overview**
+**Project Overview*
+Customer Sales EDA Project
 
 This project aims to perform an Exploratory Data Analysis (EDA) on a customer sales dataset to uncover insights related to purchasing behavior, transaction trends, and customer demographics.
 The analysis will provide valuable information for businesses to optimize their sales strategies and improve customer satisfaction.
 
 The purpose of this project is to master the exploratory data analysis (EDA) in Customer with Pandas.
 
-Goals of the Project:
+**Goals of the Project:*
 
 Explore a Customer dataset with Pandas framework.
 Visualize the dataset with various plot types.
 
-#Dataset Description
+**#Dataset Description**
 
 The data includes various attributes related to customer purchases, such as:
 
