@@ -1,4 +1,4 @@
-Exploratory Data Analysis (EDA) using Python in Customer Sales dataset
+**Exploratory Data Analysis (EDA) using Python in Customer Sales dataset**
 Customer Sales EDA Project
 
 **Project Overview**
