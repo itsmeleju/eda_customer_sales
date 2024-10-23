@@ -33,7 +33,7 @@ The data includes various attributes related to customer purchases, such as:
 14) Date: Date of the purchase
 15) Time: Time of the purchase
 
-**In this project, we will try to give answers to a set of questions that may be relevant when analyzing banking data:**
+**In this project, we will try to give answers to a set of questions that may be relevant when analyzing customer sale data:**
 
 1) Most used payment method (and least use)
 
