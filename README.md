@@ -1,6 +1,7 @@
 # ***Exploratory Data Analysis (EDA) using Python in Customer Sales dataset***
 
 *Project Overview*
+
 Customer Sales EDA Project
 
 This project aims to perform an Exploratory Data Analysis (EDA) on a customer sales dataset to uncover insights related to purchasing behavior, transaction trends, and customer preference.
