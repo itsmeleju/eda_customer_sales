@@ -50,9 +50,9 @@ The data includes various attributes related to customer purchases, such as:
 
 7) Most paid transaction (and least use), on which category 
 
-8) Most visted month (and least use)
+8) What is the most visted month (and least use)
 
-9) Most popular merchant (and least use)
+9) What is the most popular merchant (and least use)
 
 ## Used modules 
 1) Pandas
